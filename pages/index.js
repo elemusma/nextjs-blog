@@ -19,6 +19,7 @@ export default function Home({allPostsData}) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
+        <meta property="og:image" content="/images/Downtown-Denver-Optimized.jpg"></meta>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hi I&#39;m T, and this is my first NextJS deployment.</p>
