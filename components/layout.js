@@ -17,6 +17,7 @@ export default function Layout({ children, home }) {
           content="Learn how to build a personal website using Next.js"
         />
         <meta property="og:image" content="/images/Downtown-Denver-Optimized.jpg"></meta>
+        <meta property="og:description" content="I followed the tutorial from Next.js on how to create an app using Next.js as the framework. Now I have to migrate a pure React app into Next js."></meta>
         {/* <meta
           property="og:image"
           content={`https://og-image.vercel.app/${encodeURI(
