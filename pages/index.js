@@ -21,7 +21,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi I'm T, and this is my first NextJS deployment.</p>
+        <p>Hi I&#39;m T, and this is my first NextJS deployment.</p>
         
       </section>
       <section className={`${utilStyles.headingMD} ${utilStyles.padding1px}`}>
